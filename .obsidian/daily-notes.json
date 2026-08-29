@@ -1,0 +1,5 @@
+{
+  "folder": "01-journal",
+  "format": "YYYY/MM/D-MMM-X",
+  "template": "00-templates/DailyTemplate.md"
+}

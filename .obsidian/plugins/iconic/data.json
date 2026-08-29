@@ -1,0 +1,97 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": false,
+  "showMenuActions": true,
+  "showSuggestionIcons": false,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "useSearchKeywords": "on",
+  "maxSearchResults": 100,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "maxBackups": 2,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "00-assets": {
+      "icon": "lucide-image"
+    },
+    "00-inbox": {
+      "icon": "lucide-mail-plus"
+    },
+    "00-templates": {
+      "icon": "lucide-copy"
+    },
+    "01-discovery": {
+      "icon": "lucide-telescope"
+    },
+    "01-journal": {
+      "icon": "lucide-notebook-pen"
+    },
+    "development": {
+      "icon": "lucide-git-branch-plus"
+    },
+    "glossary": {
+      "icon": "lucide-graduation-cap"
+    },
+    "projects": {
+      "icon": "lucide-briefcase-business"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {
+    "author(s)": {
+      "icon": "lucide-pen-line"
+    },
+    "banner": {
+      "icon": "lucide-image-down"
+    },
+    "completed": {
+      "icon": "lucide-circle-check-big"
+    },
+    "cover": {
+      "icon": "lucide-scan-search"
+    },
+    "index": {
+      "icon": "lucide-arrow-right-circle"
+    },
+    "keywords": {
+      "icon": "lucide-key-round"
+    },
+    "preceding": {
+      "icon": "lucide-arrow-left-circle"
+    },
+    "publisher": {
+      "icon": "lucide-case-sensitive"
+    },
+    "rating": {
+      "icon": "lucide-star"
+    },
+    "status": {
+      "icon": "lucide-loader"
+    },
+    "succeeding": {
+      "icon": "lucide-arrow-right-circle"
+    }
+  },
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

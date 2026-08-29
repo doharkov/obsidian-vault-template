@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "keywords": "multitext",
+    "preceding": "multitext",
+    "succeeding": "multitext",
+    "author(s)": "multitext",
+    "rating": "number"
+  }
+}
