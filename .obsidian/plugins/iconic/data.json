@@ -38,6 +38,9 @@
     "00-templates": {
       "icon": "lucide-copy"
     },
+    "00-vault": {
+      "icon": "vault"
+    },
     "01-discovery": {
       "icon": "lucide-telescope"
     },
